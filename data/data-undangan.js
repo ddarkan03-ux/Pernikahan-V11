@@ -1,11 +1,11 @@
 window.DATA = {
   "kategori": "pernikahan",
-  "kode": "dimassalsa2027",
-  "siteUrl": "",
-  "firebase": { "apiKey": "", "projectId": "" },
+  "kode": "dimas",
+  "siteUrl": "https://ddarkan03-ux.github.io/Pernikahan-V11/",
+  "firebase": { "apiKey": "AIzaSyBEA92p-xAjSyvDTWT09-zsuEDyjZg2dZw", "projectId": "undangan-saya" },
   "ucapanPublik": true,
   "model": "Pernikahan 2 - Rose Gold",
-  "pemesan": { "nama": "Dimas & Salsa", "whatsapp": "6281234567890" },
+  "pemesan": { "nama": "Dimas & Salsa", "whatsapp": "6285716300907" },
   "foto": {
     "sampul": "foto/sampul.jpg",
     "latarUtama": "foto/latar-utama.jpg",
@@ -37,7 +37,7 @@ window.DATA = {
     "jamSelesai": "10:00",
     "tempat": "Masjid Agung Al-Barkah",
     "alamat": "Jl. Diponegoro No. 20, Surabaya",
-    "maps": "https://maps.google.com/?q=Surabaya"
+    "maps": "https://maps.app.goo.gl/SNmrfyPbfgv5LRTT6"
   },
   "resepsi": {
     "tanggal": "2027-08-14",
@@ -45,7 +45,7 @@ window.DATA = {
     "jamSelesai": "14:00",
     "tempat": "Gedung Pernikahan Anggrek",
     "alamat": "Jl. Anggrek No. 8, Surabaya",
-    "maps": "https://maps.google.com/?q=Surabaya"
+    "maps": "https://maps.app.goo.gl/SNmrfyPbfgv5LRTT6"
   },
   "siaranLangsung": "",
   "cerita": [
@@ -62,8 +62,8 @@ window.DATA = {
     "foto/galeri-6.jpg"
   ],
   "hadiah": [
-    { bank: "BCA",  nomor: "1234567890",   atasNama: "Dimas Arya Nugraha" },
-    { bank: "DANA", nomor: "09098787889", atasNama: "Salsabila Anindita" },
+    { "bank": "BCA",  "nomor": "1234567890",   "atasNama": "Dimas Arya Nugraha" },
+    { "bank": "DANA", "nomor": "09098787889", "atasNama": "Salsabila Anindita" }
   ],
   "alamatKado": "Kp. Sindang Baru Desa Ciasmara",
   "turutMengundangTampil": false,
